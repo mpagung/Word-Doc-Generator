@@ -1,0 +1,13 @@
+{
+    "python.pythonPath": "C:\\Users\\micha\\.virtualenvs\\shipping-instruction-gui-kogji1zT",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/*.pyc": true,
+        "**/__pycache__": true
+    }
+
+}
